@@ -1,7 +1,7 @@
 # stage-is-down
 
+npm install
 
-
-add to ~/.zshrc
+add the following to ~/.zshrc
 
 alias isstagedown="node /wherever/you/put/this/server.js"
