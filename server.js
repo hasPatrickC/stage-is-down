@@ -2,7 +2,7 @@
 
 var request = require('request');
 var FeedParser = require('feedparser');
-var rssUrl = 'https://sea1-jenkins01.sea1.office.priv/view/MAT%20api/job/MAT_API_Stage_Deploy/rssAll';
+var rssUrl = 'https://sea1-jenkins01.sea1.office.priv/view/MAT%20api/job/Deploy_API_Stage/rssAll';
 var index = 0;
 var isDown = false;
 
